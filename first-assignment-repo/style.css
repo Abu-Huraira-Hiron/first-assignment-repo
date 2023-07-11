@@ -1,0 +1,70 @@
+.head{
+    padding-top: 0px;
+width: 1920px;
+height: 850px;
+flex-shrink: 0;
+background: rgba(229, 84, 115, 0.10);
+    
+}
+
+nav{
+    display: flex;
+    padding-top:200px ;
+    padding-left:250px;
+    
+    
+}
+
+
+
+
+.h3{
+    display: flex;
+width: 708px;
+flex-direction: column;
+flex-shrink: 0;
+color: #272727;
+font-family: Lato;
+font-size: 60px;
+font-style: normal;
+font-weight: 200;
+line-height: normal;
+}
+
+.bani{
+    display: flex;
+width: 634px;
+flex-direction: column;
+flex-shrink: 0;
+color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+
+.btn{
+    display: inline-flex;
+padding: 10px 23px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+}
+
+.Shop-Now{
+    color: #FFF;
+font-family: Lato;
+font-size: 10px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.fflower{
+    padding-left: 350px;
+    width: 735px;
+    height: 1000px;
+    flex-shrink: 0;
+}
