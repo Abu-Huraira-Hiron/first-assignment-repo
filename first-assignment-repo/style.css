@@ -67,7 +67,9 @@ font-weight: 400;
 line-height: normal;
 }
 
-.fflower{margin-left: 200px;
+.fflower{
+    vertical-align: bottom;
+    margin-left: 200px;
     
 }
 
@@ -76,6 +78,8 @@ line-height: normal;
 }
 
 .our{
+
+    padding-top: 60px;
     color: #272727;
 text-align: center;
 font-family: Lato;
@@ -87,6 +91,8 @@ line-height: normal;
 }
 
 .fp-container{
+
+padding-top: 40px;
     color: rgba(39, 39, 39, 0.60);
 text-align: center;
 font-family: Lato;
