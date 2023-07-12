@@ -1,11 +1,12 @@
 .head{
-    padding-top: 0px;
+    padding-left: 300px;
     top: 0px;
 width: 1920px;
 height: 850px;
 flex-shrink: 0;
 background: rgba(229, 84, 115, 0.10);
-position: relative;
+display: flex;
+align-items: center;
 
 }
 
@@ -57,8 +58,8 @@ font-weight: 400;
 line-height: normal;
 }
 
-.fflower{
-    display: flex;
+.fflower{margin-left: 200px;
+    
 }
 
 .parentsofall{
@@ -173,4 +174,31 @@ span{
 
 .thirdcontainer-text{
     padding-left: 300px;
+}
+
+.fourth-container{
+    
+}
+
+.Instagram{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.fourthp-container{
+    color: #272727;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.four-flower{
+    margin-left: 220px;
+    display: flex;
+    gap: 20px;
+    list-style: none;
 }
