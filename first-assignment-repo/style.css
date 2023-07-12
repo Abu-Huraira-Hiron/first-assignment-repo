@@ -1,11 +1,12 @@
 .head{
+    padding-top: 0px;
     top: 0px;
 width: 1920px;
 height: 850px;
 flex-shrink: 0;
 background: rgba(229, 84, 115, 0.10);
 position: relative;
-    
+
 }
 
 nav{
@@ -15,10 +16,6 @@ nav{
     
     
 }
-
-
-
-
 .h3{
     display: flex;
 width: 708px;
@@ -31,7 +28,6 @@ font-style: normal;
 font-weight: 200;
 line-height: normal;
 }
-
 .bani{
     display: flex;
 width: 634px;
@@ -44,7 +40,6 @@ font-style: normal;
 font-weight: 400;
 line-height: 30px;
 }
-
 .btn{
     display: inline-flex;
 padding: 10px 23px;
@@ -53,7 +48,6 @@ gap: 10px;
 border-radius: 8px;
 background: #E55473;
 }
-
 .Shop-Now{
     color: #FFF;
 font-family: Lato;
@@ -65,6 +59,8 @@ line-height: normal;
 
 .fflower{
     padding-left: 350px;
+    width: 735px;
+    height: 1000px;
     width: 7x;
     height: 10px;
     flex-shrink: 0;
@@ -72,11 +68,12 @@ line-height: normal;
     top: 220;
     right: 100px;
 }
-.s2{
-    text-align: center;
+
+.parentsofall{
+
 }
-.s3{
-    margin-right: 100px;
+
+.our{
     color: #272727;
 text-align: center;
 font-family: Lato;
@@ -87,63 +84,71 @@ line-height: normal;
 
 }
 
-.s4{
-    
+.fp-container{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+
 }
 
-.c1{
+.second-container{
+    padding-left: 250px;
+    padding-top: 18px;
+    background-color: #FFF;
+    display: flex;
+    gap: 20px;
+
+}
+
+.round-card1{
     width: 464px;
 height: 538px;
 flex-shrink: 0;
 border-radius: 300px 300px 0px 0px;
 background: rgba(167, 33, 98, 0.15);
 
-
 }
 
-.c2{
+.round-card2{
     width: 464px;
 height: 538px;
 flex-shrink: 0;
 border-radius: 300px 300px 0px 0px;
 background: rgba(5, 151, 160, 0.15);
+
 }
 
-.c3{
+.round-card3{
     width: 464px;
 height: 538px;
 flex-shrink: 0;
 border-radius: 300px 300px 0px 0px;
 background: rgba(71, 125, 17, 0.15);
+
 }
 
-#our{
-    margin-left: 300px;
-    display: flex;
-    width: 1920px;
-height: 4867px;
-background: #FFF;
-gap: 24px;
-}
-.common{
-    align-items: center;
-    
-}
-
-.flowertree{
-    display: flex;
-    margin-top: 200px;
-    margin-left: 200px;
+.comment{
     text-decoration: underline;
-    font-size: 25px;
-    
-    
+padding-left: 45%;
+margin-top: 80px;}
+
+.comment1{text-decoration: underline;
+    padding-left: 45%;
+    margin-top: 120px;}
+
 }
 
-.s1{
-    
+#dot{
+    text-decoration: underline;
+    margin-left: 500%;
 }
-.lastsection{
+
+.third-container{
+    margin-top: 100px;
     width: 1922px;
 height: 620px;
 flex-shrink: 0;
