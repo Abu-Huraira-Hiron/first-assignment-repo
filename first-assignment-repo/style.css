@@ -58,15 +58,7 @@ line-height: normal;
 }
 
 .fflower{
-    padding-left: 350px;
-    width: 735px;
-    height: 1000px;
-    width: 7x;
-    height: 10px;
-    flex-shrink: 0;
-    position: absolute;
-    top: 220;
-    right: 100px;
+    display: flex;
 }
 
 .parentsofall{
@@ -148,10 +140,37 @@ margin-top: 80px;}
 }
 
 .third-container{
+    display: flex;
+    align-items: center;
+    
     margin-top: 100px;
     width: 1922px;
 height: 620px;
-flex-shrink: 0;
+
 border-radius: 8px;
 background: rgba(229, 84, 115, 0.05);
+
+}
+
+.hot-deal{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+}
+
+span{
+    color: #E55473;
+}
+
+.folo{
+    padding-left: 450px;
+    
+}
+
+.thirdcontainer-text{
+    padding-left: 300px;
 }
